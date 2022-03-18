@@ -1,7 +1,4 @@
-![Flask Shortener Index](https://i.imgur.com/aUePr02.png)
+This code is submitted to Waystar as part of the interview requirements for Cloud Engineer position
 
+This code is submitted by Sope Ogundipe.
 
-![Flask Shortened URL](https://i.imgur.com/UMIpOrv.png)
-
-
-![Statistics](https://i.imgur.com/C4xMbUo.png)
