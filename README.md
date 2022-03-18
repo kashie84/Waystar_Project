@@ -26,4 +26,4 @@ To test, I entered the a URL and clicked the submmit button. It succesfully retu
 I also tested the short URL in a browser and it redirects to the long URL
 
 Statistics:
-When URL is clicked , a count of the number of times increases. This is vieable from the URL http://127.0.0.1:5000/stats
+When URL is clicked , a count of the number of times increases. This is viewable from the URL http://127.0.0.1:5000/stats
